@@ -1,0 +1,381 @@
+{
+  "customers": [
+    {
+      "email": "jennifer@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "ana rodriguez",
+      "email": "anarodriguez@gmail.com",
+      "password": "dededede"
+    },
+    {
+      "email": "sarahcb@hotmail.com",
+      "fullName": "sarah cano",
+      "address": "calle siole",
+      "phoneNumber": "31789808367",
+      "password": "sarah1234",
+      "id": 3
+    },
+    {
+      "email": "sarahcb13@hotmail.com",
+      "fullName": "sara cano",
+      "address": "calle siqle",
+      "phoneNumber": "3178434242",
+      "password": "sarah1234",
+      "id": 4
+    },
+    {
+      "email": "sarahcb13@hotmail.com",
+      "fullName": "sara cano",
+      "address": "calle siqle",
+      "phoneNumber": "3178434242",
+      "password": "sarah1234",
+      "id": 5
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "fullName": "Jean Guerra",
+      "address": "Cali Paraiso del refugio",
+      "phoneNumber": "3152065368",
+      "password": "jean1234",
+      "id": 6
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean12342",
+      "id": 7
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 8
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 9
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 10
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 11
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 12
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 13
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 14
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 15
+    },
+    {
+      "email": "Jean@hotmail.com",
+      "password": "jean1234",
+      "id": 16
+    },
+    {
+      "email": "jhonny@xn--catao-rta.com",
+      "fullName": "jhonny",
+      "address": "pance",
+      "phoneNumber": "31645762",
+      "password": "123456789",
+      "id": 17
+    },
+    {
+      "email": "jhonny@cr1.com",
+      "fullName": "jhonny",
+      "address": "kk city",
+      "phoneNumber": "12345678",
+      "password": "123456789",
+      "id": 18
+    },
+    {
+      "email": "saris@gmail.com",
+      "fullName": "sarah",
+      "address": "siloco",
+      "phoneNumber": "8787298376",
+      "password": "sarah1234",
+      "id": 19
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Arepaaa con Carne",
+      "description": "Queso rallado, mantequilla, carne desmechada",
+      "price": 4000,
+      "image": "./img/Arepa-Rellena-Carne.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Arepaaaa con Jamón y Queso",
+      "description": "Queso rallado, mantequilla, jamón de cerdo",
+      "price": 8000,
+      "image": "./img/Arepa-Rellena-Jamon-Queso.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arepaaaa con Queso Cuajada",
+      "description": "Queso Cuajada finamente rallado, mantequilla",
+      "price": 5000,
+      "image": "./img/Arepa-Rellena-de-Queso-Cuajada.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Arepaaaa con Pollo",
+      "description": "Queso rallado, mantequilla, pollo desmechado",
+      "price": 8000,
+      "image": "./img/Arepa-Rellena-Pollo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Arepolaaa con Mantequilla",
+      "description": "Queso rallado, mantequilla",
+      "price": 4000,
+      "image": "./img/Arepa-Sencilla.jpg"
+    }
+  ],
+  "orderitems": [],
+  "orders": [
+    {
+      "id": 1,
+      "fullName": "sarah",
+      "address": "",
+      "phoneNumber": "",
+      "calculateTotalPrice": 27040,
+      "notes": "APTO 501M "
+    },
+    {
+      "id": 2,
+      "fullName": "Jean Guerra",
+      "address": "Cali Paraiso del refugio",
+      "phoneNumber": "3152065368",
+      "calculateTotalPrice": 27040,
+      "notes": "maricon"
+    },
+    {
+      "id": 3,
+      "fullName": "carea",
+      "address": "adasda",
+      "phoneNumber": "1234567",
+      "calculateTotalPrice": 56790,
+      "notes": "1e1wdsad"
+    },
+    {
+      "id": 4,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "calculateTotalPrice": 56790,
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "calculateTotalPrice": 56790,
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "calculateTotalPrice": 56790,
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "fullName": "sz",
+      "address": "sds",
+      "phoneNumber": "1234",
+      "calculateTotalPrice": 84160,
+      "notes": "xsz"
+    },
+    {
+      "id": 8,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "calculateTotalPrice": 8000,
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "fullName": "prueban",
+      "address": "pruebadirec",
+      "phoneNumber": "01231",
+      "calculateTotalPrice": 103200,
+      "notes": "pr"
+    },
+    {
+      "id": 10,
+      "fullName": "zzzzz",
+      "address": "zzzz",
+      "phoneNumber": "1234",
+      "calculateTotalPrice": 22280,
+      "notes": "zzzzz"
+    },
+    {
+      "id": 11,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "calculateTotalPrice": 22280,
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "fullName": "pr",
+      "address": "prdir",
+      "phoneNumber": "123456789",
+      "calculateTotalPrice": 105580,
+      "notes": "ppr"
+    },
+    {
+      "id": 13,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "calculateTotalPrice": 27040,
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "fullName": "zzz",
+      "address": "zzz",
+      "phoneNumber": "zzz",
+      "calculateTotalPrice": 60360,
+      "notes": "zzzzz"
+    },
+    {
+      "id": 15,
+      "fullName": "zzzz",
+      "address": "zzz",
+      "phoneNumber": "zzz",
+      "calculateTotalPrice": 36560,
+      "notes": "zzz"
+    },
+    {
+      "id": 16,
+      "fullName": "yyyyyyy",
+      "address": "yyyyyy",
+      "phoneNumber": "1234",
+      "calculateTotalPrice": 169840,
+      "notes": "yyyy"
+    },
+    {
+      "id": 17,
+      "fullName": "yyyyyyy",
+      "address": "yyyyyyyy",
+      "phoneNumber": "123456",
+      "calculateTotalPrice": 55600,
+      "notes": "yyyyyyy"
+    },
+    {
+      "id": 18,
+      "fullName": "vvv",
+      "address": "vvv",
+      "phoneNumber": "12345",
+      "calculateTotalPrice": 36560,
+      "notes": "vvv"
+    },
+    {
+      "id": 19,
+      "fullName": "xxx",
+      "address": "xxxx",
+      "phoneNumber": "1234",
+      "calculateTotalPrice": 65120,
+      "notes": "xxx"
+    },
+    {
+      "id": 20,
+      "fullName": "prrr",
+      "address": "prdir",
+      "phoneNumber": "1234567000",
+      "calculateTotalPrice": 215060,
+      "notes": "pr"
+    },
+    {
+      "id": 21,
+      "fullName": "JEAN",
+      "address": "dir",
+      "phoneNumber": "123456789000",
+      "calculateTotalPrice": 60360,
+      "notes": "501e"
+    },
+    {
+      "id": 22,
+      "fullName": "prn",
+      "address": "prdr",
+      "phoneNumber": "315421918",
+      "calculateTotalPrice": 34180,
+      "notes": "jean1"
+    },
+    {
+      "id": 23,
+      "fullName": "zzzz",
+      "address": "zzz",
+      "phoneNumber": "12345678900000",
+      "calculateTotalPrice": 57980,
+      "notes": "zzzzzz"
+    },
+    {
+      "id": 24,
+      "fullName": "sxsx",
+      "address": "sxsxs",
+      "phoneNumber": "12323",
+      "calculateTotalPrice": 12760,
+      "notes": "sx"
+    },
+    {
+      "id": 25,
+      "fullName": "sarah",
+      "address": "siloco",
+      "phoneNumber": "8787298376",
+      "calculateTotalPrice": 61550,
+      "notes": ""
+    }
+  ],
+  "orderfinal": [
+    {
+      "id": 1,
+      "orderId": 25,
+      "orderItems": [
+        {
+          "productId": 1,
+          "qty": 4
+        },
+        {
+          "productId": 2,
+          "qty": 3
+        },
+        {
+          "productId": 3,
+          "qty": 1
+        }
+      ],
+      "subTotal": 45000
+    }
+  ]
+}
